@@ -1,4 +1,8 @@
 ### Hi there 👋
+<span>
+  <a href="https://hwang-1.gitbook.io/til/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=plastic&logo=GitBook&logoColor=FFFFFF"/>
+  </a>
+</span>
 
 <!--
 **hgh1472/hgh1472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
