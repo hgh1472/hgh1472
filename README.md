@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 <span>
-  <a href="https://hwang-1.gitbook.io/til/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=plastic&logo=GitBook&logoColor=FFFFFF"/>
-  </a>
+  <a href="https://hwang-1.gitbook.io/til/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=plastic&logo=GitBook&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@hgh1472/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
   </a>
 </span>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627516089631853094"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh1472)](https://solved.ac/hgh1472/)
 <!--
