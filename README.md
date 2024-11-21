@@ -1,13 +1,20 @@
-### Hi there 👋
 
+<div align="center">
+<h3>Hi there 👋</h3>
 <span>
-  <a href="https://hwang-1.gitbook.io/til/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=plastic&logo=GitBook&logoColor=FFFFFF"/></a>
-  <a href="https://velog.io/@hgh1472/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+  <a href="https://velog.io/@hgh1472/posts">
+    <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff" />
+  </a>
+    
+  <a href="https://velog.io/@hgh1472/posts">
+  <img src="https://img.shields.io/badge/gitbook-000000.svg?style=for-the-badge&logo=gitbook&logoColor=ffffff" />
+  </a>
+  
+  <a href="https://g-hwang.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory-FF4500.svg?style=for-the-badge&logo=tistory&logoColor=ffffff" />
   </a>
 </span>
 <br>
-
-
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -26,9 +33,6 @@
   />
 </a>
   
-  
-
-  
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hgh1472?pet-id=627515454807167106"
@@ -36,6 +40,10 @@
     height="120"
   />
 </a>
+</div>
+
+
+
   
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh1472)](https://solved.ac/hgh1472/) -->
