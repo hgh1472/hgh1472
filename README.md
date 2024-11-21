@@ -8,12 +8,33 @@
 <br>
 
 
+
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hgh1472"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627516089631853094"
+    width="600"
+    height="120"
+  />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=636563058270761545"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
+
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627515454807167106"
+    width="600"
+    height="120"
+  />
 </a>
   
 
