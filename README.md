@@ -23,19 +23,15 @@
     width="300"
     height="120"
   /></a>
-<a href="https://github.com/devxb/gitanimals"><img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=636563058270761545"
-    width="300"
-    height="120"
-  /></a>
 <br>
+
 <a href="https://github.com/devxb/gitanimals"><img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627515454807167106"
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=648545618974983133"
     width="300"
     height="120"
   /></a>
-<a href="https://github.com/devxb/gitanimals"><img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=647445451400014018"
+  <a href="https://github.com/devxb/gitanimals"><img
+    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627515454807167106"
     width="300"
     height="120"
   /></a>
