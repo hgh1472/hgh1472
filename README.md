@@ -13,7 +13,7 @@
   <img
     src="https://render.gitanimals.org/lines/hgh1472?pet-id=647444929800563128"
     width="150"
-    height="120"
+    height="150"
   />
 </a>
 <br>
@@ -22,12 +22,12 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hgh1472?pet-id=654123003614461769"
-    width="300"
+    width="150"
     height="120"
   /></a>
 <a href="https://github.com/devxb/gitanimals"><img
     src="https://render.gitanimals.org/lines/hgh1472?pet-id=627516089631853094"
-    width="300"
+    width="150"
     height="120"
   /></a>
   
