@@ -3,7 +3,7 @@
 <h3>Hi there 👋</h3>
 <span>
   <a href="https://velog.io/@hgh1472/posts"><img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff" /></a> 
-  <a href="https://velog.io/@hgh1472/posts"><img src="https://img.shields.io/badge/gitbook-000000.svg?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a>
+  <a href="https://hwang-1.gitbook.io/til"><img src="https://img.shields.io/badge/gitbook-000000.svg?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a>
   <a href="https://g-hwang.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF4500.svg?style=for-the-badge&logo=tistory&logoColor=ffffff" /></a>
 </span>
 <br>
