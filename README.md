@@ -1,66 +1,19 @@
+### Hi there 👋
 
-<div align="center">
-<h3>Hi there 👋</h3>
-<span>
-  <a href="https://g-hwang.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF4500.svg?style=for-the-badge&logo=tistory&logoColor=ffffff" /></a>
-</span>
-<br>
+---
 
+### 👩‍💻 About Me
+- 📕 I double majored in Envirionment and Computer Enginnering.
+- 👯 I'm looking for opportunities to contribute to open-source projects.
+- 🌱 I make improvements, no matter how small.
+- ✍️ I share my experiences and learnings on [Tistory](https://g-hwang.tistory.com/).
+- 👥 You can find [reviews](https://github.com/hgh1472/RESUME) from teammates I’ve worked with on projects.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=647444929800563128"
-    width="150"
-    height="150"
-  />
-</a>
-<br>
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hgh1472&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=703987642469335416"
-    width="200"
-    height="120"
-  /></a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hgh1472&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=703987643295623862"
-    width="200"
-    height="120"
-  />
-</a>
-  
-  
-  
-<br>
-
-<a href="https://github.com/devxb/gitanimals"><img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=648545618974983133"
-    width="200"
-    height="120"
-  /></a>
-  <a href="https://github.com/devxb/gitanimals"><img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=627515454807167106"
-    width="200"
-    height="120"
-  /></a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hgh1472&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hgh1472?pet-id=721203716245130391"
-    width="200"
-    height="120"
-  />
-</a>
-  
-</a>
-  
-</div>
-
-
-
-  
+### Open Source Contributions
+- [spring-framework](https://github.com/spring-projects/spring-framework/pull/34807) - Remove duplicated setup in test.
+- [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa/pull/3828) - Remove unnecessary parameter.
+- [spring-data-redis](https://github.com/spring-projects/spring-data-redis/pull/3227) - Refine argument name.
+- [kafka](https://github.com/apache/kafka/pull/19875) - Rename ambiguous method name.
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgh1472)](https://solved.ac/hgh1472/) -->
 <!--
