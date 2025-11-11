@@ -3,7 +3,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 📕 I double majored in Envirionment and Computer Enginnering.
+- 📕 I double majored in Environment and Computer Enginnering.
 - 👯 I'm looking for opportunities to contribute to open-source projects.
 - 🌱 I make improvements, no matter how small.
 - ✍️ I share my experiences and learnings on [Tistory](https://g-hwang.tistory.com/).
